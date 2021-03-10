@@ -7,4 +7,5 @@ public class Calculator
     return a + b;
   }
   // add comment
+  // add another comment
 }
