@@ -11,7 +11,7 @@ public class Calculator
     return a - b;
   }
   
-  private float divide(int a, int b) {
+  public float divide(int a, int b) {
     return (float)a/b;
   }
 }
