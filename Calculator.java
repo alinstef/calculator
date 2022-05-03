@@ -13,5 +13,9 @@ public class Calculator
   
   public float divide(int a, int b) {
     return (float)a/b;
+  
+  
+  public long multiply(int a, int b) {
+    return (long)a*b;
   }
 }
