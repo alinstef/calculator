@@ -14,4 +14,8 @@ public class Calculator
   private float divide(int a, int b) {
     return (float)a/b;
   }
+  
+  private long multiply(int a, int b) {
+    return (long)a*b;
+  }
 }
