@@ -1,3 +1,3 @@
 # calculator
 
-A sample project for pedagogical purposes.
+A simple project for pedagogical purposes.
